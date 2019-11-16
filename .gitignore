@@ -1,0 +1,5 @@
+*.npy
+*.mat
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
