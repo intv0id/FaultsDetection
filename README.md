@@ -5,6 +5,8 @@ J. CHEN, T. COOWAR, J. KUEHNERT, A.NEVEN, A.TRABATTONI, C. TRASSOUDAINE, V. VADD
 
 November 15-16th, 2019
 
+[![DOI](https://zenodo.org/badge/222144316.svg)](https://zenodo.org/badge/latestdoi/222144316)
+
 ---
 
 The interpretation of faults along mid-ocean ridges is an important task in order to better understand tectonic mechanisms. However, the analysis relies on the detection of fault lines which can be extremely laborious when picked manually from the bathymetry. The proposed method uses a semi-supervised convolutional network to detect faults. It employs the U-Net network (Ronneberger et al., 2015) and a so-called IoU metric (mean average precision at different intersection over union).
