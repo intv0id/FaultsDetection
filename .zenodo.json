@@ -1,0 +1,51 @@
+{
+    "description": "<p>The interpretation of faults along mid-ocean ridges is an important task in order to better understand tectonic mechanisms. However, the analysis relies on the detection of fault lines which can be extremely laborious when picked manually from the bathymetry. The proposed method uses a semi-supervised convolutional network to detect faults. It employs the U-Net network (Ronneberger et al., 2015) and a so-called IoU metric (mean average precision at different intersection over union).</p>", 
+    "license": "other-open", 
+    "title": "Semi-supervised sea floor fault detectione", 
+    "version": "0.1", 
+    "upload_type": "software", 
+    "publication_date": "2019-11-20", 
+    "creators": [
+        {
+            "affiliation": "EURECOM"
+            "name": "Clément Trassoudaine"
+        }, 
+        {
+            "affiliation": "Institut de Physique du Globe de Paris", 
+            "name": "Alister Trabattoni"
+        },
+        {
+            "affiliation": "Institut de Physique du Globe de Paris", 
+            "name": "Julian Kuechnert"
+        },
+        {
+            "affiliation": "Institut de Physique du Globe de Paris", 
+            "name": "Jie Chen"
+        },
+        {
+            "affiliation": "Institut de Physique du Globe de Paris", 
+            "name": "Venkata Vaddineni"
+        }, 
+        {
+            "affiliation": "Bureau de Recherches Géologiques et Minières", 
+            "name": "Thierry Coowar"
+        },
+        {
+            "affiliation": "Université de Neuchâtel", 
+            "name": "Alexis Neven"
+        },       
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/intv0id/FaultsDetection/", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3549024", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
