@@ -7,7 +7,7 @@
     "publication_date": "2019-11-20", 
     "creators": [
         {
-            "affiliation": "EURECOM"
+            "affiliation": "EURECOM",
             "name": "Clément Trassoudaine"
         }, 
         {
@@ -33,7 +33,7 @@
         {
             "affiliation": "Université de Neuchâtel", 
             "name": "Alexis Neven"
-        },       
+        }     
     ], 
     "access_right": "open", 
     "related_identifiers": [
